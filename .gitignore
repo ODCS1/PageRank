@@ -1,0 +1,74 @@
+# BYTE-COMPILED / OPTIMIZED / DLL FILES
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VIRTUAL ENVIRONMENT DIRECTORIES
+venv/
+env/
+.virtualenv/
+
+# DISTRIBUTION / PACKAGING
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# INSTALLER LOGS
+pip-log.txt
+pip-delete-this-directory.txt
+
+# UNIT TEST / COVERAGE REPORTS
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# C EXTENSIONS
+*.so
+
+# LOGS AND TEMPORARY FILES
+*.log
+*.tmp
+*.temp
+*.bak
+
+# IDE AND EDITOR FILES
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# DESKTOP APPLICATION SPECIFIC
+*.spec  # PYINSTALLER SPEC FILES
+output/ # OUTPUT FOLDER FOR COMPILED FILES OR EXECUTABLES
+*.exe   # WINDOWS EXECUTABLES
+*.app   # MACOS EXECUTABLES
+*.dmg   # MACOS DISK IMAGE
+*.snap  # SNAPCRAFT PACKAGE
+*.deb   # DEBIAN PACKAGE
+*.rpm   # RED HAT PACKAGE
+*.msi   # WINDOWS INSTALLER
+
+# PYSIDE/QT DESIGNER SPECIFIC FILES
+*.ui~  # TEMPORARY BACKUP FILES
+*.qrc~ # TEMPORARY RESOURCE FILES BACKUP
+
+# SYSTEM FILES
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# CUSTOM FOLDERS
+logs/
+temp/
+cache/
