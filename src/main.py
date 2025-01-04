@@ -13,7 +13,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         super(MainWindow, self).__init__()
         self.setupUi(self)
         self.setWindowTitle("PageRank")
-        appIcon = QIcon(':icons/pageRank.png')
+        appIcon = QIcon(':saving/assets/images/pageRank-icon.png')
         self.setWindowIcon(appIcon)
 
         ######################################################################
