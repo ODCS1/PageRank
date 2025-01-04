@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="saving">
+    <file>../assets/images/about.png</file>
+    <file>../assets/images/data.png</file>
+    <file>../assets/images/domain-name.png</file>
+    <file>../assets/images/hierarchy.png</file>
+    <file>../assets/images/link-creation.png</file>
+    <file>../assets/images/pageRank-icon.png</file>
+    <file>../assets/images/predictive-chart.png</file>
+    <file>../assets/images/python-logo.png</file>
+    <file>../assets/images/rank-page-img.png</file>
+    <file>../assets/images/schema.png</file>
+  </qresource>
+</RCC>
